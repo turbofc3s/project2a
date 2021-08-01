@@ -1,8 +1,55 @@
+
 .upper {
-	color: white;
+	color: lightgreen;
 	padding-right: 10%
 }
 
+.extra {
+	padding: 120px 20px;
+	background-color: lightgreen;
+	color: white;
+}
+
+.larger {
+	font-size: 50px;
+}
+
+.move {
+	padding-left: 45%
+}
+
+.sweet {
+	background-color: gray;
+	color: white;
+}
+
+.stretch {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.newimage {
+	padding-left: 100px;
+	padding-bottom: 20px;
+	border-radius: 50%;
+	background-color: lightgreen;
+}
+
+.smooth {
+	padding-top: 40px;
 
 }
 
+.play {
+	padding-bottom: 10%;
+}
+
+.morespace {
+	padding-top: 35px;
+	padding-left: 25%;
+	background-color: lightgreen;
+}
+
+.middle {
+
+}
