@@ -1,55 +1,31 @@
 
-.upper {
-	color: lightgreen;
-	padding-right: 10%
+.first {
+	background-color: lightblue;
+	padding: 10% 20%;
 }
 
-.extra {
-	padding: 120px 20px;
+.next {
 	background-color: lightgreen;
-	color: white;
+	padding: 5% 10%;
 }
 
-.larger {
-	font-size: 50px;
-}
+ .nice {
+ 	padding: 8% 18%;
+ 	background-color: tan;
+ }
+ 
+  .yes {
+  	padding: 8% 18%;
+ 	background-color: red;
+  }
 
-.move {
-	padding-left: 45%
-}
+  .triple {
+  	background-color: lightblue;
+  	padding: 4%;
+  }
 
-.sweet {
-	background-color: gray;
-	color: white;
-}
+  
 
-.stretch {
-	padding-right: 0;
-	padding-left: 0;
-}
 
-.newimage {
-	padding-left: 100px;
-	padding-bottom: 20px;
-	border-radius: 50%;
-	background-color: lightgreen;
-}
 
-.smooth {
-	padding-top: 40px;
 
-}
-
-.play {
-	padding-bottom: 10%;
-}
-
-.morespace {
-	padding-top: 35px;
-	padding-left: 25%;
-	background-color: lightgreen;
-}
-
-.middle {
-
-}
