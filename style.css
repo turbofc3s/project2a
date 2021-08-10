@@ -22,11 +22,10 @@
 
   .triple {
   	background-color: lightblue;
-  	padding: 1px 0px;
-    }
+   }
 
 .pic {
-	background-image: url(https://th.bing.com/th/id/OIP.i2sBo_4qu3NExP5L6Ee9CwHaE7?pid=ImgDet&rs=1>);
+	  background-image: url(https://th.bing.com/th/id/OIP.i2sBo_4qu3NExP5L6Ee9CwHaE7?pid=ImgDet&rs=1>);
     background-position: center;
     color: white;
     font-weight: bold
